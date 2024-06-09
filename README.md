@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/HFK6bVh/Black-and-Red-Tech-Data-Analyst-Linked-In-Banner.png)
-<h1 align="center">Hi 👋, I'm Md Yasin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Md Yasin</h1>
+<h3 align="center">Passionate MERN Stack Enthusiast🧑‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdyasin7636&label=Profile%20views&color=0e75b6&style=flat" alt="mdyasin7636" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Cuisine Oasis](https://cuisine-oasis.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://md-yasin-7636.web.app/](https://md-yasin-7636.web.app/)
+- 🧷 All of my projects are available at [https://md-yasin-7636.web.app/](https://md-yasin-7636.web.app/)
 
 - 💬 Ask me about **JavaScript,React,Node.js,Express.js,MongoDB,**
 
