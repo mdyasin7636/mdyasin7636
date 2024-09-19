@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/xSbKhW8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif">
 
-- 🔭 I’m currently working on [Cuisine Oasis](https://cuisine-oasis.web.app/)
+- 🔭 I’m currently working on [Skylark Tech](https://sky-lark-tech-ltd.web.app/)
 
 - 🧷 All of my projects are available at [https://md-yasin-7636.web.app/](https://md-yasin-7636.web.app/)
 
